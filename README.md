@@ -152,7 +152,7 @@ SNRdB = 20;
 ```
 ## Plot Waveform
 <img src="https://github.com/kaycelin/ic_DSP_GenNRWaveform_PhaseNoise_PropagationChannel_DemodulateThroughput/assets/87049112/133d4c1e-45d4-43bc-93d5-dd1c9285ef10" width="60%">
-<img src="https://github.com/kaycelin/ic_DSP_GenNRWaveform_PhaseNoise_PropagationChannel_DemodulateThroughput/assets/87049112/f6085e56-69ed-4559-b6dd-f7a352655791" width="60%">
+<img src="https://github.com/kaycelin/ic_DSP_GenNRWaveform_PhaseNoise_PropagationChannel_DemodulateThroughput/assets/87049112/51b10e9f-fd3b-40f1-a844-a52eed37312a" width="60%">
 
 ## Apply LNA 
 ```js
