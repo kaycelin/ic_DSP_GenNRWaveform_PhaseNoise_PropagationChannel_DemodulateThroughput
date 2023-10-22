@@ -1,4 +1,9 @@
 # ic_DSP_GenNRWaveform_PhaseNoise_PropagationChannel_DemodulateThroughput
+## Script
+- example_nrWaveformGen_EVM_Throughput.m
+- nrWaveformGen.m
+
+## Main Section:
 - History
 - Test Setup
 - Phase Noise Model
