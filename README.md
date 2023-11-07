@@ -133,6 +133,11 @@ channel.SampleRate          = sampleRate;
 ```js
 ulnrref = "G-FR1-A5-7"; % FRC
 ```
+- Create generator object for the above PUSCH FRC reference model
+```js
+[txWvCls, txWaveform, txConfig] = nrWaveformGen(waveformFormat, {},{ulnrref,bw,scs,dm,ncellid}, ...
+    carrierFreq_nSubframes_sampleRate_cell, {}, isTDD, fnum, isDebug, isSave);
+```
 - plot the waveform
 <img src="https://github.com/kaycelin/ic_DSP_GenNRWaveform_PhaseNoise_PropagationChannel_DemodulateThroughput/assets/87049112/7683c10d-6ec8-4be2-b6a4-e673e2ce0d36" width="60%">
 
